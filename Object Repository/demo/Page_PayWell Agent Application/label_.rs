@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_</name>
+   <tag></tag>
+   <elementGuidId>50f4e749-19d1-4d32-96b2-8d075bfc02a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.col-xs-12.black</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='otp-form']/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5d6419ff-3041-4272-96f0-889b5ffceae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 black</value>
+      <webElementGuid>2c35f265-283a-4196-b450-fb05b1cfcadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>newpin</value>
+      <webElementGuid>557e2a38-febf-43d6-ad4c-6fc3d2898575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* ওটিপি দিন </value>
+      <webElementGuid>84c95d03-cc51-44c0-8beb-60561f002dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otp-form&quot;)/div[@class=&quot;col-md-12 form-box&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-xs-12 black&quot;]</value>
+      <webElementGuid>d6c98d9d-2b0a-4ac7-b7ce-2b8a9fb2a4d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='otp-form']/div/div[2]/label</value>
+      <webElementGuid>9f11f372-cca6-460d-8478-fa8f7465ce28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='অনুগ্রহ করে নিচে ওটিপি টাইপ করুন'])[1]/following::label[1]</value>
+      <webElementGuid>230d9523-f50f-4533-91c6-640fff78d11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='বাংলা'])[1]/following::label[1]</value>
+      <webElementGuid>fe6df460-6b36-46cf-92f0-daa4ade625d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='পুনরায় পাঠান'])[1]/preceding::label[1]</value>
+      <webElementGuid>9b866a77-b12c-426e-8e0d-06e093e40ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ওটিপি দিন']/parent::*</value>
+      <webElementGuid>0f1155d5-217a-4c40-87d6-f592e514ee69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>f8e20f75-4fe5-49c6-b87a-ac4c905a3453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '* ওটিপি দিন ' or . = '* ওটিপি দিন ')]</value>
+      <webElementGuid>6d886297-b36f-4e34-a4a8-bb5ed525d1c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
